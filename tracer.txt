@@ -1,0 +1,7 @@
+LinkTo  http://localhost/jqueryredirect/index.html  2017/1/9 下午 01:00:23
+LinkTo  http://localhost/jqueryredirect/index3.html  2017/1/9 下午 01:00:32
+LinkTo  http://localhost/jqueryredirect/index2.html  2017/1/9 下午 01:00:32
+LinkTo  http://localhost/jqueryredirect/index1.html  2017/1/9 下午 01:00:33
+UserIP：::1  LinkTo：http://localhost/jqueryredirect/index2.html  2017/1/9 下午 01:14:12
+UserIP：::1  LinkTo：http://localhost/jqueryredirect/index1.html  2017/1/9 下午 01:14:13
+UserIP：::1  LinkTo：http://localhost/jqueryredirect/index.html  2017/1/9 下午 01:14:16
